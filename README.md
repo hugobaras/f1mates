@@ -38,7 +38,7 @@ expo start
 📄 License
 Open-source project under MIT license.
 
-#EN
+# EN
 # Quality Plan - F1Mates
 
 ## 1. Objectives
@@ -165,7 +165,7 @@ The goal of the quality plan is to define common rules, the development process,
 **This quality plan ensures a structured and effective development for F1Mates!**
 
 
-#FR
+# FR
 # Plan de Qualité - F1Mates
 
 ## 1. Objectifs
